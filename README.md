@@ -1,12 +1,13 @@
 # FIT_FishFeeder System V.1.3
 ## 💡 An Intelligent IoT Solution by IoTES LAB
-![IoTES LAB - Nakhon Phanom University](https://i0.wp.com/fit.rmuti.ac.th/wp-content/uploads/2019/06/FIT2-1.png?fit=992%2C1162&ssl=1)
 
 ---
 
 ### 🏛️ Research Unit Information
-**Developed by:** [IoTES LAB (Internet of Things and Embedded Systems Laboratory)](https://www.npu.ac.th)
+**Developed by:** [IoTES LAB (Internet of Things and Embedded Systems Laboratory)]
+
 **Affiliation:** Faculty of Industrial Technology (FIT), Nakhon Phanom University (NPU)
+
 **Project Lead:** Apirak Tooltham
 
 ---
@@ -44,5 +45,3 @@
 ### 📞 Contact & Collaboration
 หากสนใจร่วมวิจัยหรือพัฒนาระบบร่วมกับเรา สามารถติดต่อได้ที่ **IoTES LAB, Nakhon Phanom University**
 
----
-*Maintained and Audited by Mori Minami (Mina) - Engineering Advisor to IoTES LAB*
